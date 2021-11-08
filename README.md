@@ -20,3 +20,5 @@ Kamar gw om gw lagi berantem sama mak gw
 
 
 test PR baru
+
+tambahin kalimat ini.
