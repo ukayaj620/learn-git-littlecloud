@@ -1,5 +1,7 @@
 # Learn Git
 
+Teaching Littlecloud EO Tech Team.
+
 Hello
 
 Kalimat ini diketik pada main branch.
